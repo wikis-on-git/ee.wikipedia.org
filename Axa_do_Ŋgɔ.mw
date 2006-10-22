@@ -1,4 +1,6 @@
-</div> <div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center"> 	 
+</div><div style="width:96%;margin-top:.7em;border:1px solid gold;background:black;padding:.7em;text-align:center"> [[Image:Yellow sunset.jpg|500px]] 
+
+<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center"> 	 
 <big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Ewe_language|Ewe]] language.'''</big><br /><br /> 	 
 <big>''If you speak Ewe, please help develop this encyclopedia in Eʋegbe!''</big><br /><br /> 	 
 For more information, see the [[:en:|English Wikipedia]].
@@ -14,8 +16,7 @@ Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].
 Weitere Informationen befinden sich auf der [[:de:|Deutsche Wikipedia]].
 </div>
 
-	 
-Currently there are {{NUMBEROFARTICLES}} articles:
+</div>Currently there are {{NUMBEROFARTICLES}} articles:
 *[[Amewo Eʋe]]
 *[[Eʋegbe]]
 *[[Ephraim Amu]]
@@ -30,7 +31,7 @@ width=45
 </inputbox>
 |}
 
-==Other African-language Wikipedias / D'autres Wikipédias en langues africaines==  	 
+==Other African-language Wikipedias<br>D'autres Wikipédias en langues africaines==  	 
 - 	[[:aa:|Afar]]&nbsp;· 	 
 - 	[[:af:|Afrikaans]]&nbsp;· 	 
 - 	[[:ak:|Akan]]&nbsp;· 	 
