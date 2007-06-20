@@ -1,44 +1,48 @@
-<div style="width:96%;border:3px solid gold;background:mediumseagreen;text-align:center;color:gold;font-family:MS Mincho;font width:1200%">'''☫'''</div>
-<div style="width:96%;margin-top:.7em;border:1px solid gold;background:lightgreen;padding:.7em;text-align:center"> 	 
-<big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Ewe_language|Ewe]] language.'''</big><br /><br /> 	 
-<big>''If you speak Ewe, please help develop this encyclopedia in Eʋegbe!''</big><br /><br /> 	 
+<div style="background:palegreen;border:1px solid gold;text-align:center">
+ 
+
+<div style="width:94%;border:3px solid gold;background:mediumseagreen;text-align:center;color:gold;font-family:MS Mincho;font width:1200%">'''☫'''</div>
+
+
+
+<div style="width:90%;margin-top:.4em;border:1px solid forestgreen;background:lightgreen;padding:.4em;text-align:center;font-family:Lucida Sans Unicode;color:forestgreen"> 	 
+<big>This subdomain is reserved for the creation of a Wikipedia in the [[:en:Ewe_language|Ewe]] language.</big><br> 	 
+<big>''If you speak Ewe, please help develop this encyclopedia!''</big><br> 	 
 For more information, see the [[:en:|English Wikipedia]].
 </div>	 
-<div style="width:96%;margin-top:.7em;border:1px solid gold;background:lightgreen;padding:.7em;text-align:center"> 	 
-<big>'''Ce lieu est reservé pour la création d'un Wikipédia en langue [[:fr:%C3%89w%C3%A9|évé]].'''</big><br /><br /> 	 
-<big>''Si vous parlez évé, veuillez aider à développer cette encyclopédie en Eʋegbe!''</big><br /><br /> 	 
+<div style="width:90%;margin-top:.4em;border:1px solid forestgreen;background:lightgreen;padding:.4em;text-align:center;font-family:Lucida Sans Unicode;color:forestgreen"> 	 
+<big>Ce lieu est reservé pour la création d'un Wikipédia en langue [[:fr:%C3%89w%C3%A9|évé]].</big><br> 	 
+<big>''Si vous parlez évé, veuillez aider à développer cette encyclopédie!''</big><br> 	 
 Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].  
 </div> 
-<div style="width:96%;margin-top:.7em;border:1px solid gold;background:lightgreen;padding:.7em;text-align:center">
-<big>'''Diese Subdomain ist für die Erstellung einer Wikipedia in der [[:de:Ewe (Sprache)|Ewe]]-Sprache reserviert.'''</big><br /><br />
-<big>''Wenn du diese Sprache sprichst, fang gleich an, an der Enzyklopädie zu arbeiten!''</big><br /><br />
+<div style="width:90%;margin-top:.4em;border:1px solid forestgreen;background:lightgreen;padding:.4em;text-align:center;font-family:Lucida Sans Unicode;color:forestgreen">
+<big>Diese Subdomain ist für die Erstellung einer Wikipedia in der [[:de:Ewe (Sprache)|Ewe]]-Sprache reserviert.</big><br>
+<big>''Wenn du diese Sprache sprichst, fang gleich an, an der Enzyklopädie zu arbeiten!''</big><br>
 Weitere Informationen befinden sich auf der [[:de:|Deutschen Wikipedia]].
 </div>
-<div style="width:96%;margin-top:.7em;border:1px solid gold;background:lightgreen;padding:.7em;text-align:center">
-<big>'''Este es un dominio reservado para la creación de una Wikipedia en [[:es:Idioma ewe|Ewe]].'''</big><br /><br />
-<big>''¡Si hablas ewe por favor ayuda a esta Wikipedia!''</big><br /><br />
+<div style="width:90%;margin-top:.4em;border:1px solid forestgreen;background:lightgreen;padding:.4em;text-align:center;font-family:Lucida Sans Unicode;color:forestgreen">
+<big>Este es un dominio reservado para la creación de una Wikipedia en lengua [[:es:Idioma ewe|ewe]].</big><br>
+<big>''¡Si hablas ewe por favor ayuda a esta Wikipedia!''</big><br>
 Busca más información en la [[:es:|Wikipedia en Español]].
 </div>
 
-Currently there are {{NUMBEROFARTICLES}} articles, among which:
-*[[Amewo Eʋe]]
-*[[Eʋegbe]]
-*[[Ephraim Amu]]
-*[[Yaa Asantewaa]]
-*[[Biblia]]
-*[[Yesu Kristo]]
-*[[True Jesus Church]]
-*[[Peki dukɔ ƒe fiawo]]
 
-{| width="60%" style="border:1px solid black"
-|
+<div style="width:50%;margin-top:.7em;background:palegreen;padding:.7em;text-align:center;font-family:Lucida Sans Unicode;color:darkolivegreen">
+<big>Currently there are {{NUMBEROFARTICLES}} articles,<br>among which:</big>
+
+[[Amewo Eʋe]] &middot;  [[Eʋegbe]] &middot;  [[Ephraim Amu]] &middot;  [[Yaa Asantewaa]] &middot;  [[Biblia]] &middot;  [[Yesu Kristo]] &middot;  [[True Jesus Church]] &middot;  [[Peki dukɔ ƒe fiawo]]
+</div>
+{| width="50%" style="background:palegreen" |
 <inputbox>
 type=create
-width=45
+width=37
 </inputbox>
 |}
 
-==Other African-language Wikipedias / D'autres Wikipédias en langues africaines==  	 
+</div>
+
+
+==Other African-language Wikipedias<br>D'autres Wikipédias en langues africaines==  	 
 - 	[[:aa:|Afar]]&nbsp;· 	 
 - 	[[:af:|Afrikaans]]&nbsp;· 	 
 - 	[[:ak:|Akan]]&nbsp;· 	 
@@ -76,6 +80,7 @@ width=45
 - 	[[:wo:|Wolof]]&nbsp;· 	 
 - 	[[:ts:|Xitsonga]]&nbsp;· 	 
 - 	[[:yo:|Yorùbá]]&nbsp;·
+
 
 [[ak:Main Page]]
 [[de:Hauptseite]]
