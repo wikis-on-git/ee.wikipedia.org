@@ -1,4 +1,9 @@
-<div style="width:96%;border:3px solid gold;background:mediumseagreen;text-align:center;color:gold;font-family:MS Mincho;font width:1200%">'''☫'''</div>
+<div style="width:96%;border:3px solid gold;background:mediumseagreen;text-align:center;color:gold;font-family:MS Mincho;font width:1200%"><big>'''Eʋegbe Wikipiɖia'''</big></div>
+<div style="width:96%;margin-top:.7em;border:1px solid gold;background:lightgreen;padding:.7em;text-align:center"> 	 
+<big>'''Wo dzra afi sia daɖi na  Wikipiɖia la ŋɔŋlɔ ɖe [[:en:Ewe_language|Eʋegbe]] me.'''</big><br /><br /> 	 
+<big>''Ne edoa Eʋegbe la, míele kukuɖem nawo be na ná kpekpeɖeŋu le Eʋegbe me!''</big><br /><br /> 	 
+Ne wòa di be yea xlẽ nu bubuwo le nya sia ŋuti la, xlẽ [[:en:|Inglisi Wikipedia]] la.
+</div>	
 <div style="width:96%;margin-top:.7em;border:1px solid gold;background:lightgreen;padding:.7em;text-align:center"> 	 
 <big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Ewe_language|Ewe]] language.'''</big><br /><br /> 	 
 <big>''If you speak Ewe, please help develop this encyclopedia in Eʋegbe!''</big><br /><br /> 	 
@@ -19,17 +24,12 @@ Weitere Informationen befinden sich auf der [[:de:|Deutschen Wikipedia]].
 <big>''¡Si hablas ewe por favor ayuda a esta Wikipedia!''</big><br /><br />
 Busca más información en la [[:es:|Wikipedia en Español]].
 </div>
-
-Currently there are {{NUMBEROFARTICLES}} articles, among which:
-*[[Amewo Eʋe]]
-*[[Eʋegbe]]
-*[[Ephraim Amu]]
-*[[Yaa Asantewaa]]
-*[[Biblia]]
-*[[Yesu Kristo]]
-*[[True Jesus Church]]
-*[[Peki dukɔ ƒe fiawo]]
-
+<br/>
+<center><big>Fifia la, nuŋɔŋlɔwo ƒe xexlẽme le afi sia enye {{NUMBEROFARTICLES}}.</big><br/>Wo dometɔa ɖewo enye:<br />
+[[Amewo Eʋe]] • [[Avu]] • [[Biblia]] • [[Eʋegbe]] • [[Ephraim Amu]] • [[Gẽ dukɔ ƒe fiawo]]• [[Peki dukɔ ƒe fiawo]] • [[True Jesus Church]] • [[Yaa Asantewaa]] • [[Yesu Kristo]]
+</div></center>
+<br/>
+<center>
 {| width="60%" style="border:1px solid black"
 |
 <inputbox>
@@ -37,8 +37,9 @@ type=create
 width=45
 </inputbox>
 |}
-
-==Other African-language Wikipedias / D'autres Wikipédias en langues africaines==  	 
+</center>
+<br/>
+== Wikipedia bubuwo le Afrika gbewo me ==  	 
 - 	[[:aa:|Afar]]&nbsp;· 	 
 - 	[[:af:|Afrikaans]]&nbsp;· 	 
 - 	[[:ak:|Akan]]&nbsp;· 	 
