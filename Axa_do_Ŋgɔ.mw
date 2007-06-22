@@ -1,4 +1,4 @@
-<div style="width:96%;border:3px solid gold;background:mediumseagreen;text-align:center;color:gold;font-family:MS Mincho;font width:1200%"><big>'''Eʋegbe Wikipiɖia'''</big></div>
+<div style="width:96%;margin-top:.1em;border:3px solid gold;background:mediumseagreen;padding:.1em;text-align:center;color:gold;font-family:Arial Unicode MS;font width:1200%"><big>'''Eʋegbe Wikipiɖia'''</big></div>
 <div style="width:96%;margin-top:.7em;border:1px solid gold;background:lightgreen;padding:.7em;text-align:center"> 	 
 <big>'''Wo dzra afi sia daɖi na  Wikipiɖia la ŋɔŋlɔ ɖe [[:en:Ewe_language|Eʋegbe]] me.'''</big><br /><br /> 	 
 <big>''Ne edoa Eʋegbe la, míele kukuɖem nawo be na ná kpekpeɖeŋu le Eʋegbe me!''</big><br /><br /> 	 
@@ -24,17 +24,16 @@ Weitere Informationen befinden sich auf der [[:de:|Deutschen Wikipedia]].
 <big>''¡Si hablas ewe por favor ayuda a esta Wikipedia!''</big><br /><br />
 Busca más información en la [[:es:|Wikipedia en Español]].
 </div>
-<br/>
+<br/><br/>
 <center><big>Fifia la, nuŋɔŋlɔwo ƒe xexlẽme le afi sia enye {{NUMBEROFARTICLES}}.</big><br/>Wo dometɔa ɖewo enye:<br />
-[[Amewo Eʋe]] • [[Avu]] • [[Biblia]] • [[Eʋegbe]] • [[Ephraim Amu]] • [[Gẽ dukɔ ƒe fiawo]]• [[Peki dukɔ ƒe fiawo]] • [[True Jesus Church]] • [[Yaa Asantewaa]] • [[Yesu Kristo]]
+[[Amewo Eʋe]] • [[Avu]] • [[Biblia]] • [[Eʋegbe]] • [[Ephraim Amu]] • [[Gẽ dukɔ ƒe fiawo]] • [[Peki dukɔ ƒe fiawo]] • [[True Jesus Church]] • [[Yaa Asantewaa]] • [[Yesu Kristo]]
 </div></center>
 <br/>
 <center>
 *Axa yeyetɔ wu le Eʋe Wikipiɖia la me enye: {{Special:Newpages/1}}
 </center><br/>
 <center>
-{| width="60%" style="border:1px solid black"
-|
+{| width="60%" |
 <inputbox>
 type=create
 width=45
