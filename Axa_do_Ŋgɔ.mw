@@ -30,7 +30,9 @@ Busca más información en la [[:es:|Wikipedia en Español]].
 </div></center>
 <br/>
 <center>
-<big>'''Axa yeyetɔ wu le Eʋe Wikipiɖia la me enye:'''</big>{{Special:Newpages/1}}
+<big>'''Egbe enye {{CURRENTDAYNAME}}, [[{{CURRENTMONTHNAME}}]] {{CURRENTDAY}}, {{CURRENTYEAR}},  {{CURRENTTIME}}''' (UTC).
+
+Axa yeyetɔ wu le Eʋe Wikipiɖia la me enye:</big>{{Special:Newpages/1}}
 </center><br/>
 <center>
 {| width="60%" |
