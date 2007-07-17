@@ -1,39 +1,33 @@
-<div style="width:97%;margin-top:.1em;border:3px solid gold;background:mediumseagreen;padding:.1em;text-align:center;color:gold;font-family:Arial Unicode MS;font width:1200%"><big>'''Eʋe Wikipiɖia'''</big></div>
-<div style="width:96%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
-<big>'''Wodzra afi sia daɖi na  Wikipiɖia la ŋɔŋlɔ ɖe [[:en:Ewe_language|Eʋegbe]] me.'''</big><br /><br /> 	 
-<big>''Ne edoa Eʋegbe la, míaɖe kuku nawo bena na ná kpekpeɖeŋu le Eʋegbe me!''</big><br /><br /> 	 
-Ne wòadi be yea xlẽ nu bubuwo le nu sia ŋuti la, nuxexlẽwo le egbe bubuwo me abe: [[:en:|English]], [[:fr:|Français]], [[:de:|Deutsch]], [[:pt:|Português]], [[:es:|Español]] kple [[:ak:|Akan]].
-</div>	
-<div style="width:96%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
-<big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Ewe_language|Ewe]] language.'''</big><br /><br /> 	 
-<big>''If you speak Ewe, please help develop this encyclopedia in Eʋegbe!''</big><br /><br /> 	 
-For more information, see the [[:en:|English Wikipedia]].
-</div>	 
-<div style="width:96%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
-<big>'''Ce lieu est reservé pour la création d'un Wikipédia en langue [[:fr:%C3%89w%C3%A9|évé]].'''</big><br /><br /> 	 
-<big>''Si vous parlez évé, veuillez aider à développer cette encyclopédie en Eʋegbe!''</big><br /><br /> 	 
-Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].  
-</div> 
-<div style="width:96%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center">
-<big>'''Diese Subdomain ist für die Erstellung einer Wikipedia in der [[:de:Ewe (Sprache)|Ewe]]-Sprache reserviert.'''</big><br /><br />
-<big>''Wenn du diese Sprache sprichst, fang gleich an, an der Enzyklopädie zu arbeiten!''</big><br /><br />
-Weitere Informationen befinden sich auf der [[:de:|Deutschen Wikipedia]].
-</div>
-<div style="width:96%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center">
-<big>'''Este es un dominio reservado para la creación de una Wikipedia en [[:es:Idioma ewe|Ewe]].'''</big><br /><br />
-<big>''¡Si hablas ewe por favor ayuda a esta Wikipedia!''</big><br /><br />
-Busca más información en la [[:es:|Wikipedia en Español]].
-</div>
-<br/><br/>
-<center><big>'''Fifia la, nuŋɔŋlɔwo ƒe xexlẽme le afi sia ɖo {{NUMBEROFARTICLES}}.'''</big><br/>Wo dometɔa ɖewo enye:<br />
-[[Afadzato]] • [[Ako]] • [[Amewo Eʋe]] • [[Avu]] • [[Biblia]] • [[Eʋegbe]] • [[Ephraim Amu]] • [[Gẽ dukɔ ƒe fiawo]] • [[Peki dukɔ ƒe fiawo]] • [[Siamlɔm]] • [[True Jesus Church]] • [[Yaa Asantewaa]] • [[Yesu Kristo]]
-</div></center>
-<br/>
-<center>
-<big>'''Egbe enye {{CURRENTDAYNAME}}, [[{{CURRENTMONTHNAME}}]] {{CURRENTDAY}}, {{CURRENTYEAR}},  {{CURRENTTIME}}''' (UTC).
+<div id="mainpage"></div>
 
-Axa yeyetɔ wu le Eʋe Wikipiɖia la me enye:</big>{{Special:Newpages/1}}
-</center><br/>
+<div style="width:99%;margin-top:.1em;border:3px solid gold;background:mediumseagreen;padding:.1em;text-align:center;color:gold;font-family:Arial Unicode MS;font width:1200%"><big>'''Eʋe Wikipiɖia'''</big></div>
+
+<!-------------------------------Banner across top of page------------------------------>
+{| style="width:100%; background:#fcfcfc; margin-top:+.9em; border:1px solid #ccc;"
+|style="width:56%; color:#000"| <!--
+
+
+
+<!-- Main section -->
+{| width="100%" cellpadding="5" cellspacing="10" style="background:#ffffff<!-- #E9EFF8 -->; border-style:solid; border-width:3px; border-color:#696969;"
+| width="55%" valign="top" style="padding: 0; margin:0;" | 
+<div style="text-align:center; margin:-7px; padding-bottom:12px;"></div>
+
+<!----------"Welcome to Wikipedia" and article count---------->
+<center>
+<div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
+'''Woezɔ loo! Afisia enye [[:en:Ewe_language|Eʋe]] Wikipiɖia la, nunyãgbãle fãa si amesiame ateŋu aɖɔɖo.'''<br />	 
+''Ne èdoa Eʋegbe la, míave nuwò bena na ná kpekpeɖeŋu le Eʋegbe me!''<br /> 	 
+Ne wòadi be yea xlẽ nu bubuwo si woakɔ nyame nawò la, wole gbe bubu aɖewo me abe: [[:en:|English]], [[:fr:|Français]], [[:de:|Deutsch]], [[:pt:|Português]], [[:es:|Español]] kple [[:ak:|Akan]].
+</div>
+<big>'''Fifia la, nuŋɔŋlɔawo ƒe xexlẽme le Eʋe Wikipiɖia la dzi enye [[Special:Statistics|{{NUMBEROFARTICLES}}]].'''</big><br/>Wo dometɔ aɖewo wonye:<br />
+[[Amewo Eʋe]] • [[Avu]] • [[Biblia]] • [[Eʋegbe]] • [[Ephraim Amu]] • [[Gẽ dukɔ ƒe fiawo]] • [[Peki dukɔ ƒe fiawo]] • [[True Jesus Church]] • [[Yaa Asantewaa]] • [[Yesu Kristo]]
+</div></center>
+<center>
+<big>'''Egbe enye {{CURRENTDAYNAME}}, {{CURRENTDAY}} [[{{CURRENTMONTHNAME}}]], {{CURRENTYEAR}}'''</big>
+*'''Axa yeyetɔ wu le Eʋe Wikipiɖia la me enye:''' {{Special:Newpages/1}}
+</center>
+<!-- Create article -->
 <center>
 {| width="60%" |
 <inputbox>
@@ -42,8 +36,113 @@ width=45
 </inputbox>
 |}
 </center>
-<br/>
-== Wikipedia bubuwo le Afrika gbewo me ==  	 
+
+<!-----------------------Today's featured article, Did you know------------------------>
+<div style="float:left; width:60%;"></div> <!-- This width added to the the margin below to equal 99%-->
+{|style="border-spacing:8px; margin:0px -8px;"
+|class="MainPageBG" style="width:60%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;"|
+{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5fffa;"
+! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Nuŋɔŋlɔ tatia</h2>
+|-
+|style="color:#000;"| {{Wikipedia:Egbe ƒe nuŋɔŋlɔ tatia#{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}}
+|-
+! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Ɖe nenya be...</h2>
+|-
+|style="color:#000;"| {{Ɖe nenya be}}
+|-
+|}
+</div>
+
+<!-- This margin should be right of the above -->
+<!--<div style="float:right; width:39%"> -->
+<!------------------------------In the news, On this day------------------------------->
+<div style="float:right; width:100%"> <!-- This margin should be right of the above -->
+|class="MainPageBG" style="width:100%; border:1px solid #cedff2; background:#f5faff; vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff;"
+!
+
+<h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">Nusiwo le dzi yim</h2>
+|-
+|style="color:#000;"| {{Nyadzɔdzɔwo}}
+|-
+|<div class="noprint" style="text-align:right;margin-right:10px;margin-bottom:4px;">'''[[wikinews:Main Page|Wikinews]]''' &mdash; '''[[Template:Nyadzɔdzɔwo|Nyadzɔdzɔ bubuwo]]'''</div>
+|-
+!
+
+<h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">Le ɣleti sia me...</h2>
+|-
+|style="color:#000;"| {{Wikipedia:Ŋkeke veviewo/{{CURRENTMONTHNAME}}}}
+|-
+|}
+|}
+</div></div>
+<!-----------------------------Sections at bottom of page------------------------------>
+
+==Wikipiɖia sia ƒe akpa bubuwo==
+*'''[[Wikipedia:Help desk|Kpekpeɖeŋu di ƒe]]''' - Tsɔ wo babiawo kataã le Wikipiɖia ŋu va afii.
+*'''[[Wikipedia:Reference desk|Nuwodiƒe]]''' - Babiawo le nu geɖewo ŋu.
+*'''[[Wikipedia:Village pump|Tsiɖuƒe]]''' - Va da Wikipiɖia nyawo kpɔ le afii.
+*'''[[Wikipedia:Community Portal|Takpekpewɔƒe]]''' - Dɔ siwo le edzi yim le afii.
+*'''[[Wikipedia:News|Kpodoga]]''' - Gbeƒãɖeɖewo le Wikipiɖia kple Wikimiɖia ŋuti.
+
+==Wikipiɖia ƒe nɔviwo==
+[[Wikimedia Foundation]] enye habɔbɔ si kpɔa Wikipiɖia  kple [[Wikimedia:Our_projects|dɔ bubuwo dzi]]. Dɔwo siwo le dzedzem le afii la le Yevugbewo me:
+
+{|width="100%" align="center" cellpadding="4" style="text-align:left; background-color: transparent;"
+| align="center" | <imagemap>Image:Wiktionary-logo-51px.gif|51x35px
+rect 0 0 50 50 [[wikt:|Wiktionary]]
+desc none</imagemap>
+|width="33%" | '''<span class="plainlinks">[http://en.wiktionary.org/ Wiktionary]</span>'''<br />Nyawomeɖeɖe
+| align="center" | <imagemap>Image:Wikinews-logo-51px.png|51x30px
+rect 0 0 50 50 [[n:|Wikinews]]
+desc none</imagemap>
+|width="33%" | '''<span class="plainlinks">[http://en.wikinews.org/ Wikinews]</span>'''<br />Kpodoga
+| align="center" | <imagemap>Image:Wikiquote-logo-51px.png|51x41px
+rect 0 0 50 50 [[q:|Wikiquote]]
+desc none</imagemap>
+|width="33%" | '''<span class="plainlinks">[http://en.wikiquote.org/ Wikiquote]</span>'''<br />Nyafɔkpewo
+|-
+| align="center" | <imagemap>Image:Wikibooks-logo-35px.png|35x35px
+rect 0 0 50 50 [[b:|Wikibooks]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://en.wikibooks.org/ Wikibooks]</span>'''<br />Sukugbalẽwo
+| align="center" | <imagemap>Image:Wikispecies-logo-35px.png|35x41px
+rect 0 0 50 50 [[wikispecies:|Wikispecies]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://species.wikimedia.org/ Wikispecies]</span>'''<br />Nugbagbewo
+| align="center" | <imagemap>Image:Wikisource-logo-35px.png|35x37px
+rect 0 0 50 50 [[s:|Wikisource]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://en.wikisource.org/ Wikisource]</span>'''<br />Agbalẽ xlẽ ƒe
+|-
+| align="center" | <imagemap>Image:Wikiversity-logo-41px.png|41x32px 
+rect 0 0 50 50 [[v:Wikiversity]]
+desc none</imagemap>
+<!-- [[Image:Wikiversity-logo-Snorky.svg|35px]] Wikiversity-logo.svg -->
+| '''<span class="plainlinks">[http://en.wikiversity.org/ Wikiversity]</span>'''<br />Nusrɔ̃nuwo
+| align="center" | <imagemap>Image:Commons-logo-31px.png|31x41px
+rect 0 0 50 50 [[commons:|Commons]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://commons.wikimedia.org/ Commons]</span>'''<br />Nutatawo kple nuƒoƒowo
+| align="center" | <imagemap>Image:Wikimedia-logo-35px.png|35x36px
+rect 0 0 50 50 [[m:|Meta-Wiki]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://meta.wikimedia.org/ Meta-Wiki]</span>'''<br />Wikimiɖia dɔwodzikpɔƒe
+|}
+<!--
+<noinclude>
+[[ca:Plantilla:Contingut Projectes germans]]
+[[cs:Template:Wikipediasister]]
+[[el:Πρότυπο:Αδελφικά εγχειρήματα]]
+[[es:Template:Portada:Proyectos]]
+[[eu:Txantiloi:Wikimedia]]
+[[ia:Patrono:Projectos Wikimedia]]
+[[sk:Template:WikipediaSister]]
+[[vi:Tiêu bản:Liên quan Wikipedia]]
+</noinclude>
+-->
+
+== Wikipiɖia bubuwo le Afrika gbewo me ==  	 
 - 	[[:aa:|Afar]]&nbsp;· 	 
 - 	[[:af:|Afrikaans]]&nbsp;· 	 
 - 	[[:ak:|Akan]]&nbsp;· 	 
@@ -81,6 +180,11 @@ width=45
 - 	[[:wo:|Wolof]]&nbsp;· 	 
 - 	[[:ts:|Xitsonga]]&nbsp;· 	 
 - 	[[:yo:|Yorùbá]]&nbsp;·
+
+<!-- End of page -->
+__NOTOC__
+|}
+
 
 [[aa:Main Page]]
 [[af:Tuisblad]]
