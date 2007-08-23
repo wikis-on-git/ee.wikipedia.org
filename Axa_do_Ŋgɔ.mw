@@ -63,12 +63,14 @@ width=45
 |class="MainPageBG" style="width:100%; border:1px solid #cedff2; background:#f5faff; vertical-align:top"|
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff;"
 !
-
+<!---------------------------------Leave out Nyadzɔdzɔwo till there are enough editors to update regularly
 <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">Nusiwo le dzi yim</h2>
-|-
+
+ |-
 |style="color:#000;"| {{Nyadzɔdzɔwo}}
+
 |-
-|<div class="noprint" style="text-align:right;margin-right:10px;margin-bottom:4px;">'''[[wikinews:Main Page|Wikinews]]''' &mdash; '''[[Template:Nyadzɔdzɔwo|Nyadzɔdzɔ bubuwo]]'''</div>
+|<div class="noprint" style="text-align:right;margin-right:10px;margin-bottom:4px;">'''[[wikinews:Main Page|Wikinews]]''' &mdash; '''[[Template:Nyadzɔdzɔwo|Nyadzɔdzɔ bubuwo]]'''</div> ----------------------------------------------------------------------------------------------------------->
 |-
 !
 
@@ -89,7 +91,7 @@ width=45
 *'''[[Wikipedia:News|Kpodoga]]''' - Gbeƒãɖeɖewo le Wikipiɖia kple Wikimiɖia ŋuti.
 
 ==Wikipiɖia ƒe nɔviwo==
-[[Wikimedia Foundation]] enye habɔbɔ si kpɔa Wikipiɖia  kple [[Wikimedia:Our_projects|dɔ bubuwo dzi]]. Dɔwo siwo le dzedzem le afii la le Yevugbewo me:
+[[Wikimedia Foundation]] enye habɔbɔ si kpɔa Wikipiɖia  kple [[Wikimedia:Our_projects|dɔ bubuwo dzi]]. Dɔ siwo le dzedzem le afisia le Yevugbewo me:
 
 {|width="100%" align="center" cellpadding="4" style="text-align:left; background-color: transparent;"
 | align="center" | <imagemap>Image:Wiktionary-logo-51px.gif|51x35px
