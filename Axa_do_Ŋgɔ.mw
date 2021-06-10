@@ -14,7 +14,7 @@
 <div style="text-align:center; margin:-7px; padding-bottom:12px;"></div>
 
 <!----------"Welcome to Wikipedia" and article count---------->
-<center>
+<div class="center">
 <div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
 <big>'''Woezɔ loo! Afisia enye [[:en:Ewe_language|Eʋe]] Wikipiɖia la, nunyãgbãle fãa si amesiame ateŋu aɖɔɖo.'''<br />	 
 ''Ne èdoa Eʋegbe la, míave nuwò bena na ná kpekpeɖeŋu le Eʋegbe me!''</big> <br /> 	 
@@ -22,28 +22,28 @@ Ne wòadi be yea xlẽ nu bubuwo si woakɔ nyame nawò la, wole gbe bubu aɖewo 
 </div>
 <big>'''Fifia la, nuŋɔŋlɔawo ƒe xexlẽme le Eʋe Wikipiɖia la dzi [[Special:AllPages|enye]] [[Special:Statistics|{{NUMBEROFARTICLES}}]].'''</big><br/>Wo dometɔ aɖewo wonye:<br />
 [[Ako]] • [[Avu]] • [[Biblia]] • [[Dzove]] • [[Eʋegbe]] • [[Ephraim Amu]] • [[Gẽ dukɔ ƒe fiawo]] • [[Kwame Nkrumah]] • [[Xɔsemeʋuʋu]] • [[Presbyteria Nyanyui Hame le Ghana]] • [[Jerry Rawlings]]
-</div></center>
-<div class="usermessage"><center>
+</div></div>
+<div class="usermessage"><div class="center">
 [[meta:List of articles all languages should have|List of articles all languages should have]]<br>
 [[Wikipedia:Vital articles|Vital articles (1000)]]<br>
 [[Wikipedia:Vital 100|Vital 100]]
-<center>
+<div class="center">
 <div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
 <big>'''Egbe enye {{CURRENTDAYNAME}}, {{CURRENTDAY}} [[{{CURRENTMONTHNAME}}]], {{CURRENTYEAR}}'''</big>
 *'''Axa yeyetɔ wu le Eʋe Wikipiɖia la me enye:''' {{Special:Newpages/1}}
 </div>
 *'''Nuŋɔŋlɔ alafaɖekalia enye [http://ee.wikipedia.org/w/index.php?title=Paraguay&oldid=4494 Paraguay], si woŋlɔ le 16:24,[[ Siamlɔm 14]], [[2007]]'''
-</center>
+</div>
 <!-- Create article -->
-<center>
+<div class="center">
 {| width="60%" |
 <inputbox>
 type=create
 width=45
 </inputbox>
 |}
-</center>
-</center></div>
+</div>
+</div></div>
 
 <!-----------------------Today's featured article, Did you know------------------------>
 <div style="float:left; width:60%;"></div> <!-- This width added to the the margin below to equal 99%-->
