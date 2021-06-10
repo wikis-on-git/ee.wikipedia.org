@@ -4,7 +4,7 @@
 ! colspan="2" bgcolor="red" |<span style="color:White">First stanza</span>
 |-
 |width=2%|
-<center>
+<div class="center">
 Mia denyigba lɔ̃lɔ̃ la<br />
 Enu wonye woa ƒoa sia?<br />
 Mia tɔgbuiwo tsɔ woƒe<br />
@@ -14,12 +14,12 @@ be mia wɔ miatɔ sinu<br />
 Nuvevi nyenye, diɖoɖo,<br />
 kple ame ɖokui tɔdzidzi,<br />
 Bu miaƒe azɔli hegble mia denyigba alegbegbe.<br />
-</center> 
+</div> 
 |-
 !colspan="2" bgcolor="yellow"|<span style="color:Black">Second stanza</span>
 |-
 |width=2%|
-<center>
+<div class="center">
 Agbalemenunya ƒuƒlu<br />
 Loo hotsui kpɔkpɔ guduu<br />
 Kple agbe yaka nɔnɔ<br />
@@ -30,15 +30,15 @@ Kple lã dodo ame ɖokui<br />
 Na xɔ̃lɔ̃ viviwo ƒe nyonyo ko<br />
 Woawo mee tomefafa<br />
 Kple ŋgɔyiyi nyui wodzɔ tso.<br />
-</center>
+</div>
 |-
 !colspan="2" bgcolor="green"|<span style="color:White">Chorus</span>
 |-
 |width=2%|
-<center>
+<div class="center">
 Denyigba wo nyonyo<br />
 Denyigba wo gbegble<br />
 Alesi newɔe la<br />
 Sigbe ke woa nɔ daa<br />
-</center>
+</div>
 |}
